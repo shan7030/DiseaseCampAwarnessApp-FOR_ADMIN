@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130748214431",
+    "firebase_url": "https://ayushmanodisha-7a4ee.firebaseio.com",
+    "project_id": "ayushmanodisha-7a4ee",
+    "storage_bucket": "ayushmanodisha-7a4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130748214431:android:eeaec9205d21cb1d",
+        "android_client_info": {
+          "package_name": "com.example.android.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130748214431-ekvjp9n1rtipk4i710vut6r36vf7fj64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qODw3kjLtvnPXIgfVf0detZlm-HWrE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
