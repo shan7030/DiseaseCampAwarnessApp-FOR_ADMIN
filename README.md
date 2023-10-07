@@ -1,5 +1,5 @@
 # Healthcare-Camp-Locator-Admin
-This is an Android App created to create awareness about a disease and also inform citizens when healthcare campaigns are set nearby. It also allows admins to find the optimized location for setting the campaign.
+This is an Android App built to create awareness about a disease and also inform citizens when healthcare campaigns are set nearby. It also allows admins to find the optimized location for setting the campaign.
 This project was selected among the top 8 teams in the Smart Odisha Hackathon, 2018 hosted by HackerEarth. 
 
 # Problem
